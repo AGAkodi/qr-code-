@@ -1,0 +1,25 @@
+img{
+    max-width: 100%;
+    height: auto;
+    border-radius: 1.35rem;
+}
+body {
+    background-color: lightgray;
+    margin: 0;
+    text-size-adjust: none;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:12px;
+    display: grid;
+    place-items: center;
+    -webkit-text-size-adjust: none;
+    min-height: 100vh;
+}
+main{
+    background-color: white;
+    max-width: 300px;
+    padding: 1.075rem;
+    border-radius: 1.35rem;
+    text-align: center;
+    margin: 1.075rem;
+    box-shadow: 0 0.4rem 0.4rem darkblue;
+}
